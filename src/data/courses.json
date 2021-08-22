@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Laravel beyond CRUD",
+        "link": "https://laravel-beyond-crud.com/"
+    },
+    {
+        "title": "Testing Laravel",
+        "link": "https://testing-laravel.com/"
+    },
+    {
+        "title": "Laravel Package Training",
+        "link": "https://laravelpackage.training/"
+    },
+    {
+        "title": "Event sourcing in Laravel",
+        "link": "https://event-sourcing-laravel.com/"
+    },
+    {
+        "title": "Eloquent Performance Patterns",
+        "link": "https://eloquent-course.reinink.ca/"
+    },
+    {
+        "title": "Confident Laravel",
+        "link": "https://confidentlaravel.com/"
+    }
+]

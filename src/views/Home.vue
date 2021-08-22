@@ -31,12 +31,12 @@ export default {
         {
           title: 'Books',
           icon: 'book',
-          link: ''
+          link: 'books'
         },
         {
           title: 'Courses',
           icon: 'academic-cap',
-          link: ''
+          link: 'courses'
         },
         {
           title: 'Blogs',

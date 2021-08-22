@@ -1,6 +1,6 @@
 <template>
     <div class="mx-auto text-center w-2/5">
-        <h1 class="text-3xl text-white text-mono py-6">Laravel official links</h1>
+        <h1 class="text-3xl text-white text-mono py-6">Laravel Courses</h1>
 
         <div>
             <list-item v-for="item in items" :key="item.title" :item="item" />
@@ -10,17 +10,17 @@
 
 <script>
 import ListItem from '@/components/ListItem.vue'
-import officialLinks from '@/data/official.json'
+import courseLinks from '@/data/courses.json'
 import { sortByTitle } from '@/helpers'
 
 export default {
-    name: 'Official',
+    name: 'Courses',
     components: {
         ListItem
     },
     data() {
         return {
-            items: sortByTitle(officialLinks)
+            items: sortByTitle(courseLinks)
         }
     }
 }
