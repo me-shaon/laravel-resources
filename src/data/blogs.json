@@ -14,5 +14,17 @@
     {
         "title": "Laravel News Blog",
         "link": "https://laravel-news.com/blog"
+    },
+    {
+        "title": "Laravel Daily",
+        "link": "https://laraveldaily.com"
+    },
+    {
+        "title": "Laravel Tricks",
+        "link": "https://laravel-tricks.com/tricks"
+    },
+    {
+        "title": "Laraship",
+        "link": "https://www.laraship.com/blog"
     }
 ]
