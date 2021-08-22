@@ -46,7 +46,7 @@ export default {
         {
           title: 'People',
           icon: 'user-group',
-          link: ''
+          link: 'people'
         }
       ]
     }

@@ -5,6 +5,7 @@ import Official from '../views/Official.vue'
 import Books from '../views/Books.vue'
 import Courses from '../views/Courses.vue'
 import Blogs from '../views/Blogs.vue'
+import People from '../views/People.vue'
 
 const routes = [
   {
@@ -36,6 +37,11 @@ const routes = [
     path: '/blogs',
     name: 'Blogs',
     component: Blogs
+  },
+  {
+    path: '/people',
+    name: 'People',
+    component: People
   }
 ]
 

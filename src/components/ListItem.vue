@@ -3,8 +3,6 @@
         <a :href="item.link" target="_blank" class="text-lg text-mono my-2 block text-center text-gray-600 hover:text-gray-800">
             {{ item.title}}
         </a>
-
-        <slot></slot>
     </div>
 </template>
 

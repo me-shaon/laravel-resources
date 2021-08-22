@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Taylor Otwell",
+        "known_for": "Creator of Laravel",
+        "links": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/taylorotwell"
+            },
+            {
+                "name": "Github",
+                "link": "https://github.com/taylorotwell"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/taylorotwell/"
+            },
+            {
+                "name": "Medium",
+                "link": "https://medium.com/@taylorotwell"
+            }
+        ]
+    },
+    {
+        "title": "- Mohamed Said",
+        "known_for": "Developer of Laravel",
+        "links": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/themsaid"
+            },
+            {
+                "name": "Github",
+                "link": "https://github.com/themsaid"
+            },
+            {
+                "name": "Website",
+                "link": "https://themsaid.com/"
+            },
+            {
+                "name": "YouTube",
+                "link": "https://www.youtube.com/themsaid"
+            }
+        ]
+    }
+]
