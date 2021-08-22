@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Documentation",
+        "link": "https://laravel.com/"
+    },
+    {
+        "title": "Blog",
+        "link": "https://blog.laravel.com/"
+    },
+    {
+        "title": "News",
+        "link": "https://laravel-news.com/"
+    },
+    {
+        "title": "Jobs",
+        "link": "https://larajobs.com/"
+    },
+    {
+        "title": "Certification",
+        "link": "https://certification.laravel.com/"
+    },
+    {
+        "title": "Forum",
+        "link": "https://laracasts.com/discuss"
+    },
+    {
+        "title": "Conference",
+        "link": "https://laracon.us/"
+    }
+]
