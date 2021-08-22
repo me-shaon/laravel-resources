@@ -4,7 +4,7 @@ import router from './router'
 import './assets/css/app.css'
 import IconBase from '@/assets/icons/IconBase.vue'
 import IconHome from '@/assets/icons/IconHome.vue'
-import IconQuestion from '@/assets/icons/IconQuestion.vue'
+import IconInfo from '@/assets/icons/IconInfo.vue'
 import IconBook from '@/assets/icons/IconBook.vue'
 import IconAcademicCap from '@/assets/icons/IconAcademicCap.vue'
 import IconPencil from '@/assets/icons/IconPencil.vue'
@@ -16,7 +16,7 @@ const app = createApp(App).use(router)
 
 app.component('icon-base', IconBase)
 app.component('icon-home', IconHome)
-app.component('icon-question', IconQuestion)
+app.component('icon-info', IconInfo)
 app.component('icon-book', IconBook)
 app.component('icon-academic-cap', IconAcademicCap)
 app.component('icon-pencil', IconPencil)

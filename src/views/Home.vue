@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-5xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+  <div>
     <ul role="list" class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3">
     <li v-for="category in categories" :key="category.name" class="shadow-2xl hover:shadow-inner cursor-pointer col-span-1 flex flex-col text-center bg-white rounded-lg divide-y divide-gray-200">
       <div class="flex-1 flex flex-col p-8 text-center">
