@@ -26,5 +26,9 @@
     {
         "title": "Conference",
         "link": "https://laracon.us/"
+    },
+    {
+        "title": "Github",
+        "link": "https://github.com/laravel/framework"
     }
 ]
