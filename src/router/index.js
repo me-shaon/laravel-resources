@@ -4,6 +4,7 @@ import Info from '../views/Info.vue'
 import Official from '../views/Official.vue'
 import Books from '../views/Books.vue'
 import Courses from '../views/Courses.vue'
+import Blogs from '../views/Blogs.vue'
 
 const routes = [
   {
@@ -30,6 +31,11 @@ const routes = [
     path: '/courses',
     name: 'Courses',
     component: Courses
+  },
+  {
+    path: '/blogs',
+    name: 'Blogs',
+    component: Blogs
   }
 ]
 

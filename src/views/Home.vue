@@ -41,7 +41,7 @@ export default {
         {
           title: 'Blogs',
           icon: 'pencil',
-          link: ''
+          link: 'blogs'
         },
         {
           title: 'People',
