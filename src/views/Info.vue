@@ -11,7 +11,13 @@
                     <a :href="credit.link" target="_blank" v-text="credit.title"></a>
                 </li>
             </ul>
-      </div>
+        </div>
+    </div>
+    <div class="shadow mt-10 col-span-1 mx-auto flex flex-col gap-2 bg-white rounded-lg py-12">
+        <h1 class="mt-2 block text-xl text-center leading-8 font-extrabold tracking-tight text-red-400">
+            Disclaimer
+        </h1>
+        <p class="text-center mt-4">Contents in the resource list are being displayed in <strong>Lexicographic order</strong>. No specific priority is given to any content.</p>
     </div>
 </template>
 
