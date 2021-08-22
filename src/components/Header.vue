@@ -17,7 +17,7 @@
       <div class="flex items-center justify-center col-span-8">
         <h2 class="text-xl font-bold font-serif">Laravel Resources</h2>
       </div>
-      <div class="flex items-center justify-end col-span-2">
+      <div class="flex items-center justify-end col-span-2 gap-4">
         <router-link to="/info">
           <div class="ml-5 flex-shrink-0 bg-white rounded-full p-1 text-gray-400 hover:text-gray-500">
             <span class="sr-only">Learn more</span>
@@ -26,6 +26,7 @@
             </icon-base>
           </div>
         </router-link>
+        <a href="https://github.com/me-shaon/laravel-resources" target="_blank" class="text-gray-400 hover:text-gray-600">Github</a>
       </div>
     </div>
   </div>
