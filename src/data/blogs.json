@@ -14,5 +14,44 @@
     {
         "title": "Laravel News Blog",
         "link": "https://laravel-news.com/blog"
+    },
+    {
+        "title": "Freek Van der Herten's Blog",
+        "link": "https://freek.dev"
+    },{
+        "title": "Matt Sttaufer's Blog",
+        "link": "https://mattstauffer.com/blog"
+    },
+    {
+        "title": "Adam Wathan's Blog",
+        "link": "https://adamwathan.me/archives"
+    },
+    {
+        "title": "Jason Mccreary's Blog",
+        "link": "https://jasonmccreary.me/articles"
+    },
+    {
+        "title": "Brent Roose's Blog",
+        "link": "https://stitcher.io"
+    },
+    {
+        "title": "Michael Dyrynda's Blog",
+        "link": "https://dyrynda.com.au/blog"
+    },
+    {
+        "title": "Dries Vints's Blog",
+        "link": "https://driesvints.com/blog"
+    },
+    {
+        "title": "Dayle Rees's Blog",
+        "link": "https://daylerees.com"
+    },
+    {
+        "title": "Laravel Daily",
+        "link": "https://laraveldaily.com"
+    },
+    {
+        "title": "Larashout",
+        "link": "https://www.larashout.com"
     }
 ]
