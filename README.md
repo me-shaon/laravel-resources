@@ -1,24 +1,10 @@
 # laravel-resources
 
-## Project setup
-```
-npm install
-```
+A list of useful Laravel resources.
+Browse the contents here: https://laravel-resources.onrender.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Contributing guideline
+**Please only add quality contents.**
 
-### Compiles and minifies for production
-```
-npm run build
-```
+You can add more contents to the resource list by updating the relevant file in `src/data` folder.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
