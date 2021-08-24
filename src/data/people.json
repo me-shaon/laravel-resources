@@ -42,5 +42,27 @@
                 "link": "https://www.youtube.com/themsaid"
             }
         ]
+    },
+    {
+        "title": "Jeffrey Way",
+        "known_for": "Creator of Laracasts",
+        "links": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/jeffrey_way"
+            },
+            {
+                "name": "Github",
+                "link": "https://github.com/JeffreyWay"
+            },
+            {
+                "name": "Tuts Plus",
+                "link": "https://tutsplus.com/authors/jeffrey-way"
+            },
+            {
+                "name": "Laracast Profile",
+                "link": "https://laracasts.com/@JeffreyWay"
+            }
+        ]
     }
 ]
