@@ -1,28 +1,28 @@
 [
     {
-        "title": "Jeffrey Way",
-        "known_for": "Developer of Laravel",
+        "title": "Taylor Otwell",
+        "known_for": "Creator of Laravel",
         "links": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/jeffrey_way"
+                "link": "https://twitter.com/taylorotwell"
             },
             {
                 "name": "Github",
-                "link": "https://github.com/JeffreyWay"
+                "link": "https://github.com/taylorotwell"
             },
             {
-                "name": "Tuts Plus",
-                "link": "https://tutsplus.com/authors/jeffrey-way"
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/taylorotwell/"
             },
             {
-                "name": "Laracast Profile",
-                "link": "https://laracasts.com/@JeffreyWay"
+                "name": "Medium",
+                "link": "https://medium.com/@taylorotwell"
             }
         ]
     },
     {
-        "title": "Mohamed Said",
+        "title": "- Mohamed Said",
         "known_for": "Developer of Laravel",
         "links": [
             {
@@ -44,24 +44,24 @@
         ]
     },
     {
-        "title": "Taylor Otwell",
-        "known_for": "Creator of Laravel",
+        "title": "Jeffrey Way",
+        "known_for": "Creator of Laracast",
         "links": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/taylorotwell"
+                "link": "https://twitter.com/jeffrey_way"
             },
             {
                 "name": "Github",
-                "link": "https://github.com/taylorotwell"
+                "link": "https://github.com/JeffreyWay"
             },
             {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/taylorotwell/"
+                "name": "Tuts Plus",
+                "link": "https://tutsplus.com/authors/jeffrey-way"
             },
             {
-                "name": "Medium",
-                "link": "https://medium.com/@taylorotwell"
+                "name": "Laracast Profile",
+                "link": "https://laracasts.com/@JeffreyWay"
             }
         ]
     }
